@@ -11,7 +11,6 @@ function Hero() {
                     <h1 className="text-white text-4xl font-semibold py-2 md:py-4">Predict your heart disease risk today</h1>
                     <p className="text-white text-xl font-semibold mb-10 lg:py-20">At CardioCheck AI, we harness advanced technology to empower individuals in monitoring their heart health. Our innovative heart disease prediction platform allows users to input vital health parameters and receive instant predictive insights. This proactive approach enables users to take charge of their health and make informed decisions. Join us on the journey to a healthier heart and unlock the power of data-driven insights for a brighter future.</p>
                 </div>
-
                 <div>
                     <Parallax speed={-20}>
                         <img src={heart} alt="heart" />
